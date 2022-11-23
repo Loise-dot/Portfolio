@@ -4,6 +4,8 @@
   box-sizing: border-box;
   background-image: url(Images/photo-1521133573892-e44906baee46.avif);
   background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
 }
 .navbar-nav {
   display: flex;
