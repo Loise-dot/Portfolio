@@ -1,23 +1,9 @@
-body {
-}
-.head {
-  padding: 0;
-  margin: 0;
-  font-family: "josefin Sans", sans-serif;
-  box-sizing: border-box;
-  background-image: url(Images/photo-1521133573892-e44906baee46.avif);
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-}
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  background-image: url(photo-1521133573892-e44906baee46.avif);
+  background-image: url(Images/photo-1521133573892-e44906baee46.avif);
   background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
 }
 .navbar-nav {
   display: flex;
@@ -38,8 +24,8 @@ body {
 .project {
   img-align: center;
   float: right;
-  width: 75%;
-  padding: 0 10px;
+  width: 0%;
+  padding: 0 0px;
   vertical-align: baseline;
   vertical-height: 100vh margin-top;
 }
@@ -54,7 +40,7 @@ body {
 }
 .projects {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-evenly;
   margin-top: 20px;
 }
 .card-text {
