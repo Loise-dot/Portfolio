@@ -1,0 +1,32 @@
+h1 {
+  font-family: sans-serif;
+  font-style: italic;
+  text-decoration: underline;
+}
+
+body {
+  text-align: center;
+  background-image: url(images/P2.jpeg);
+  background-size: cover;
+}
+
+nav > a {
+  padding: 10px;
+  font-weight: bold;
+  text-align: center;
+}
+nav {
+  text-align: center;
+  font-size: 22px;
+}
+a:link {
+  color: purple;
+}
+
+a:visited {
+  color: purple;
+}
+
+a:hover {
+  color: rgb(6, 5, 6);
+}
